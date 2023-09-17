@@ -1,0 +1,13 @@
+# Take In Photo Of Clothes 
+
+# Run It Through Model To Classify 
+
+# Store Data 
+
+How do we want to store data?
+I guess on the disk? zipped up?
+
+How Do We Keep 
+
+# CreateOutfit.py will have another model to put together outfit based on 
+# Previous choices

@@ -6,6 +6,6 @@ setup(
     description="AI Model To Pick A Fashionable Outfit",
     author="Sydney Medina",
     author_email="sydneymedina5@gmail.com",
-    packages=["data", "deep_learning", "creative"],
+    packages=["deep_learning", "creative"],
     # FIX THIS lmao
 )
